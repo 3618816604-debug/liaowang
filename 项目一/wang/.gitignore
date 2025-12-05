@@ -1,0 +1,25 @@
+# 虚拟环境目录
+venv/
+
+# 数据库文件
+instance/data.db
+
+# 编译生成的文件
+__pycache__/
+*.pyc
+
+# IDE配置文件
+.vscode/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
+
+# 临时文件
+*.tmp
+*.temp
